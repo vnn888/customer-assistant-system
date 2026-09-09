@@ -1,0 +1,512 @@
+[
+  {
+    "id": 1,
+    "category": "akun_login",
+    "prompt": "Bagaimana cara membuat akun baru?",
+    "response": "Klik tombol 'Daftar' di halaman utama, isi email dan nomor HP, lalu verifikasi lewat kode OTP yang dikirim ke email atau SMS kamu."
+  },
+  {
+    "id": 2,
+    "category": "akun_login",
+    "prompt": "Saya lupa password, bagaimana cara reset?",
+    "response": "Klik 'Lupa Password' di halaman login, masukkan email terdaftar, lalu ikuti link reset password yang dikirim ke email kamu dalam 5 menit."
+  },
+  {
+    "id": 3,
+    "category": "akun_login",
+    "prompt": "Kenapa akun saya tiba-tiba logout sendiri?",
+    "response": "Ini biasanya terjadi kalau sesi login kadaluarsa (30 hari) atau kamu login di perangkat baru yang otomatis mengeluarkan sesi lama karena alasan keamanan."
+  },
+  {
+    "id": 4,
+    "category": "akun_login",
+    "prompt": "Bagaimana cara mengganti email yang terdaftar?",
+    "response": "Masuk ke menu Pengaturan Akun > Ubah Email, masukkan email baru, lalu konfirmasi lewat link verifikasi yang dikirim ke email lama dan baru."
+  },
+  {
+    "id": 5,
+    "category": "akun_login",
+    "prompt": "Apakah saya bisa punya lebih dari satu akun?",
+    "response": "Setiap pengguna hanya diperbolehkan memiliki satu akun aktif per nomor identitas untuk mencegah penyalahgunaan promo dan menjaga keamanan transaksi."
+  },
+  {
+    "id": 6,
+    "category": "akun_login",
+    "prompt": "Bagaimana cara menghapus akun saya secara permanen?",
+    "response": "Ajukan penghapusan akun lewat menu Pengaturan > Hapus Akun. Proses ini butuh 14 hari kerja dan tidak bisa dibatalkan setelah selesai."
+  },
+  {
+    "id": 7,
+    "category": "akun_login",
+    "prompt": "Kenapa verifikasi OTP saya tidak masuk-masuk?",
+    "response": "Cek folder spam untuk email, atau pastikan nomor HP aktif dan sinyal stabil untuk SMS. Kode OTP juga bisa diminta ulang setelah 60 detik."
+  },
+  {
+    "id": 8,
+    "category": "akun_login",
+    "prompt": "Bagaimana cara mengaktifkan autentikasi dua faktor (2FA)?",
+    "response": "Masuk ke Pengaturan Akun > Keamanan > Aktifkan 2FA, lalu scan QR code menggunakan aplikasi authenticator seperti Google Authenticator."
+  },
+  {
+    "id": 9,
+    "category": "akun_login",
+    "prompt": "Apakah data pribadi saya aman?",
+    "response": "Data kamu dienkripsi dan disimpan sesuai standar keamanan industri. Kami tidak pernah membagikan data pribadi ke pihak ketiga tanpa persetujuan kamu."
+  },
+  {
+    "id": 10,
+    "category": "akun_login",
+    "prompt": "Bagaimana cara mengubah nomor HP yang terdaftar?",
+    "response": "Masuk ke Pengaturan Akun > Ubah Nomor HP, masukkan nomor baru, lalu verifikasi dengan kode OTP yang dikirim ke nomor tersebut."
+  },
+  {
+    "id": 11,
+    "category": "akun_login",
+    "prompt": "Akun saya diblokir, apa yang harus saya lakukan?",
+    "response": "Hubungi tim support lewat live chat atau email dengan menyertakan ID akun kamu, tim kami akan meninjau dan merespons dalam 1x24 jam kerja."
+  },
+  {
+    "id": 12,
+    "category": "akun_login",
+    "prompt": "Bagaimana cara mengubah nama profil?",
+    "response": "Masuk ke menu Profil > Edit Profil, ubah nama tampilan, lalu simpan perubahan."
+  },
+  {
+    "id": 13,
+    "category": "akun_login",
+    "prompt": "Apakah saya perlu memverifikasi identitas (KYC)?",
+    "response": "Verifikasi identitas dibutuhkan untuk fitur tertentu seperti penarikan dana besar, cukup upload foto KTP dan foto selfie sesuai instruksi di aplikasi."
+  },
+  {
+    "id": 14,
+    "category": "akun_login",
+    "prompt": "Kenapa aplikasi minta saya login ulang terus?",
+    "response": "Coba update aplikasi ke versi terbaru dan pastikan tanggal-waktu perangkat kamu sudah otomatis/akurat, karena ini bisa mengganggu proses autentikasi."
+  },
+  {
+    "id": 15,
+    "category": "akun_login",
+    "prompt": "Bagaimana cara menghubungkan akun dengan Google/Facebook?",
+    "response": "Masuk ke Pengaturan Akun > Hubungkan Akun, pilih platform yang diinginkan, lalu ikuti proses login dan izinkan aksesnya."
+  },
+  {
+    "id": 16,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Berapa lama waktu pengiriman standar?",
+    "response": "Pengiriman standar memakan waktu 2-4 hari kerja untuk area dalam kota dan 4-7 hari kerja untuk luar kota, tergantung jasa kurir yang dipilih."
+  },
+  {
+    "id": 17,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Bagaimana cara melacak pesanan saya?",
+    "response": "Buka menu 'Pesanan Saya', pilih pesanan yang ingin dilacak, nomor resi akan otomatis terhubung ke status pengiriman real-time."
+  },
+  {
+    "id": 18,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Apakah saya bisa mengubah alamat pengiriman setelah checkout?",
+    "response": "Alamat bisa diubah selama status pesanan masih 'Menunggu Diproses'. Setelah masuk status 'Dikemas', perubahan alamat tidak bisa dilakukan."
+  },
+  {
+    "id": 19,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Bagaimana cara membatalkan pesanan?",
+    "response": "Buka 'Pesanan Saya', pilih pesanan yang ingin dibatalkan, klik 'Batalkan Pesanan'. Ini hanya berlaku sebelum status berubah menjadi 'Dikirim'."
+  },
+  {
+    "id": 20,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Apa yang terjadi jika saya tidak ada di rumah saat kurir datang?",
+    "response": "Kurir akan mencoba pengiriman ulang di hari berikutnya, atau paket dititipkan ke agen terdekat sesuai kebijakan masing-masing jasa kurir."
+  },
+  {
+    "id": 21,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Apakah tersedia pengiriman same-day?",
+    "response": "Same-day delivery tersedia untuk beberapa kota besar dengan pesanan sebelum jam 14.00, biaya tambahan berlaku sesuai jarak."
+  },
+  {
+    "id": 22,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Bagaimana jika paket saya hilang dalam pengiriman?",
+    "response": "Laporkan lewat menu Bantuan dengan menyertakan nomor pesanan, tim kami akan menginvestigasi bersama jasa kurir dan memproses klaim penggantian."
+  },
+  {
+    "id": 23,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Apakah saya bisa memilih jasa kurir sendiri?",
+    "response": "Ya, pada halaman checkout tersedia beberapa pilihan kurir beserta estimasi waktu dan biaya masing-masing."
+  },
+  {
+    "id": 24,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Kenapa status pesanan saya belum berubah setelah 2 hari?",
+    "response": "Keterlambatan update status bisa terjadi karena volume pengiriman tinggi. Jika lebih dari 3 hari kerja tidak ada perubahan, hubungi support kami."
+  },
+  {
+    "id": 25,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Apakah bisa request pengiriman di jam tertentu?",
+    "response": "Untuk saat ini kami belum mendukung penjadwalan jam spesifik, tapi kamu bisa memilih preferensi pagi/siang/sore pada beberapa kurir tertentu."
+  },
+  {
+    "id": 26,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Bagaimana cara mengetahui ongkos kirim sebelum checkout?",
+    "response": "Ongkos kirim otomatis terhitung setelah kamu memasukkan alamat pengiriman di halaman keranjang, sebelum melanjutkan ke pembayaran."
+  },
+  {
+    "id": 27,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Apakah pesanan bisa digabung untuk hemat ongkir?",
+    "response": "Ya, selama pesanan belum dibayar, kamu bisa menambahkan produk lain ke keranjang yang sama untuk digabung dalam satu pengiriman."
+  },
+  {
+    "id": 28,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Apa itu status 'Retur ke Pengirim'?",
+    "response": "Status ini muncul jika paket gagal terkirim beberapa kali dan dikembalikan ke gudang kami. Kami akan menghubungi kamu untuk pengiriman ulang atau refund."
+  },
+  {
+    "id": 29,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Bagaimana cara komplain jika barang diterima rusak?",
+    "response": "Ajukan komplain dalam 2x24 jam sejak barang diterima lewat menu Bantuan, sertakan foto/video kondisi barang sebagai bukti."
+  },
+  {
+    "id": 30,
+    "category": "pemesanan_pengiriman",
+    "prompt": "Apakah ada pengiriman internasional?",
+    "response": "Saat ini kami hanya melayani pengiriman domestik. Ekspansi ke pengiriman internasional sedang dalam tahap perencanaan."
+  },
+  {
+    "id": 31,
+    "category": "pembayaran_tagihan",
+    "prompt": "Metode pembayaran apa saja yang tersedia?",
+    "response": "Kami mendukung transfer bank, kartu kredit/debit, e-wallet (OVO, GoPay, DANA, ShopeePay), dan cicilan tanpa kartu kredit untuk produk tertentu."
+  },
+  {
+    "id": 32,
+    "category": "pembayaran_tagihan",
+    "prompt": "Apakah harga yang tertera sudah termasuk pajak?",
+    "response": "Ya, semua harga yang ditampilkan sudah termasuk PPN sesuai ketentuan yang berlaku, kecuali dinyatakan lain pada halaman produk."
+  },
+  {
+    "id": 33,
+    "category": "pembayaran_tagihan",
+    "prompt": "Bagaimana cara menggunakan kode voucher?",
+    "response": "Masukkan kode voucher pada kolom 'Kode Promo' di halaman checkout sebelum melakukan pembayaran, diskon akan otomatis terpotong."
+  },
+  {
+    "id": 34,
+    "category": "pembayaran_tagihan",
+    "prompt": "Kenapa pembayaran saya gagal padahal saldo cukup?",
+    "response": "Ini bisa terjadi karena gangguan jaringan sementara pada bank/e-wallet, atau limit transaksi harian sudah tercapai. Coba ulangi beberapa saat lagi."
+  },
+  {
+    "id": 35,
+    "category": "pembayaran_tagihan",
+    "prompt": "Berapa lama proses verifikasi pembayaran transfer bank?",
+    "response": "Verifikasi otomatis biasanya selesai dalam 10-30 menit. Jika lebih dari 1 jam, unggah bukti transfer manual lewat menu Pesanan Saya."
+  },
+  {
+    "id": 36,
+    "category": "pembayaran_tagihan",
+    "prompt": "Apakah tersedia cicilan tanpa kartu kredit?",
+    "response": "Tersedia lewat mitra paylater kami untuk produk dengan minimum harga tertentu, dengan pilihan tenor 3, 6, atau 12 bulan."
+  },
+  {
+    "id": 37,
+    "category": "pembayaran_tagihan",
+    "prompt": "Bagaimana cara mendapatkan invoice/kwitansi?",
+    "response": "Invoice otomatis dikirim ke email setelah pembayaran berhasil, dan juga bisa diunduh dari menu Pesanan Saya > Detail Pesanan."
+  },
+  {
+    "id": 38,
+    "category": "pembayaran_tagihan",
+    "prompt": "Apakah saya dikenakan biaya admin untuk transfer bank?",
+    "response": "Biaya admin bervariasi tergantung metode dan bank yang dipilih, besarannya akan ditampilkan secara transparan sebelum kamu konfirmasi pembayaran."
+  },
+  {
+    "id": 39,
+    "category": "pembayaran_tagihan",
+    "prompt": "Bagaimana jika saya sudah bayar tapi status masih 'Menunggu Pembayaran'?",
+    "response": "Tunggu maksimal 1 jam untuk sinkronisasi otomatis. Jika status belum berubah, kirimkan bukti pembayaran ke tim support untuk verifikasi manual."
+  },
+  {
+    "id": 40,
+    "category": "pembayaran_tagihan",
+    "prompt": "Apakah bisa membayar sebagian (DP)?",
+    "response": "Saat ini kami hanya mendukung pembayaran penuh di muka atau cicilan penuh lewat paylater, belum ada opsi DP sebagian."
+  },
+  {
+    "id": 41,
+    "category": "pembayaran_tagihan",
+    "prompt": "Bagaimana cara mengubah metode pembayaran setelah checkout?",
+    "response": "Metode pembayaran tidak bisa diubah setelah pesanan dibuat. Kamu perlu membatalkan pesanan lalu membuat pesanan baru dengan metode yang diinginkan."
+  },
+  {
+    "id": 42,
+    "category": "pembayaran_tagihan",
+    "prompt": "Apakah kartu kredit saya aman digunakan di sini?",
+    "response": "Ya, semua transaksi kartu kredit diproses lewat payment gateway bersertifikat PCI-DSS, kami tidak menyimpan data kartu kamu di server kami."
+  },
+  {
+    "id": 43,
+    "category": "pengembalian_refund",
+    "prompt": "Bagaimana cara mengajukan pengembalian barang?",
+    "response": "Ajukan lewat menu 'Pengembalian Barang' maksimal 7 hari setelah barang diterima, sertakan alasan dan foto kondisi barang."
+  },
+  {
+    "id": 44,
+    "category": "pengembalian_refund",
+    "prompt": "Berapa lama proses refund setelah disetujui?",
+    "response": "Dana dikembalikan dalam 3-14 hari kerja tergantung metode pembayaran awal, e-wallet biasanya lebih cepat dibanding transfer bank."
+  },
+  {
+    "id": 45,
+    "category": "pengembalian_refund",
+    "prompt": "Produk apa saja yang tidak bisa diretur?",
+    "response": "Barang custom/pesanan khusus, produk digital yang sudah diaktivasi, dan produk kebersihan pribadi yang segelnya sudah dibuka tidak bisa diretur."
+  },
+  {
+    "id": 46,
+    "category": "pengembalian_refund",
+    "prompt": "Apakah biaya pengiriman retur ditanggung penjual?",
+    "response": "Jika retur disebabkan kesalahan penjual (barang rusak/salah kirim), biaya retur ditanggung penuh oleh kami. Selain itu, biaya ditanggung pembeli."
+  },
+  {
+    "id": 47,
+    "category": "pengembalian_refund",
+    "prompt": "Bagaimana jika barang yang diterima tidak sesuai deskripsi?",
+    "response": "Ajukan komplain dalam 2x24 jam sejak diterima lewat menu Bantuan, sertakan foto/video sebagai bukti, tim kami akan memfasilitasi retur atau penukaran."
+  },
+  {
+    "id": 48,
+    "category": "pengembalian_refund",
+    "prompt": "Apakah saya bisa tukar barang dengan ukuran/warna lain?",
+    "response": "Ya, penukaran ukuran/warna bisa diajukan dalam 7 hari lewat menu Pengembalian Barang, dengan syarat stok pengganti tersedia."
+  },
+  {
+    "id": 49,
+    "category": "pengembalian_refund",
+    "prompt": "Kemana refund saya dikirim jika bayar pakai transfer bank?",
+    "response": "Refund untuk pembayaran transfer bank akan dikirim ke rekening bank yang kamu daftarkan saat pengajuan retur disetujui."
+  },
+  {
+    "id": 50,
+    "category": "pengembalian_refund",
+    "prompt": "Apakah ongkos kirim ikut direfund?",
+    "response": "Ongkos kirim awal akan direfund penuh jika retur disebabkan kesalahan kami. Untuk alasan lain, hanya harga barang yang direfund."
+  },
+  {
+    "id": 51,
+    "category": "pengembalian_refund",
+    "prompt": "Bagaimana status pengajuan retur bisa saya pantau?",
+    "response": "Status retur bisa dicek real-time di menu 'Pengembalian Barang', mulai dari 'Diajukan', 'Disetujui', hingga 'Dana Dikembalikan'."
+  },
+  {
+    "id": 52,
+    "category": "pengembalian_refund",
+    "prompt": "Apa yang terjadi jika pengajuan retur saya ditolak?",
+    "response": "Kamu akan menerima notifikasi beserta alasan penolakan, dan bisa mengajukan banding dengan bukti tambahan lewat live chat support."
+  },
+  {
+    "id": 53,
+    "category": "pengembalian_refund",
+    "prompt": "Apakah retur bisa diajukan untuk produk diskon?",
+    "response": "Bisa, selama masih dalam periode 7 hari dan produk memenuhi syarat retur lainnya, status diskon tidak mempengaruhi hak retur."
+  },
+  {
+    "id": 54,
+    "category": "troubleshooting_teknis",
+    "prompt": "Aplikasi sering force close, apa solusinya?",
+    "response": "Coba update aplikasi ke versi terbaru, bersihkan cache di Pengaturan HP > Aplikasi, atau install ulang jika masalah masih berlanjut."
+  },
+  {
+    "id": 55,
+    "category": "troubleshooting_teknis",
+    "prompt": "Kenapa halaman produk tidak bisa dimuat?",
+    "response": "Ini biasanya karena koneksi internet tidak stabil. Coba refresh halaman atau ganti jaringan (WiFi ke data seluler atau sebaliknya)."
+  },
+  {
+    "id": 56,
+    "category": "troubleshooting_teknis",
+    "prompt": "Bagaimana cara membersihkan cache aplikasi?",
+    "response": "Buka Pengaturan HP > Aplikasi > pilih aplikasi kami > Penyimpanan > Hapus Cache. Ini tidak akan menghapus data akun kamu."
+  },
+  {
+    "id": 57,
+    "category": "troubleshooting_teknis",
+    "prompt": "Kenapa notifikasi tidak muncul di HP saya?",
+    "response": "Pastikan izin notifikasi aktif di Pengaturan HP > Aplikasi > Notifikasi, dan aplikasi tidak masuk mode hemat baterai yang membatasi background process."
+  },
+  {
+    "id": 58,
+    "category": "troubleshooting_teknis",
+    "prompt": "Aplikasi lemot padahal sinyal bagus, kenapa?",
+    "response": "Kemungkinan cache aplikasi menumpuk atau versi aplikasi sudah usang. Update ke versi terbaru dan restart aplikasi bisa membantu."
+  },
+  {
+    "id": 59,
+    "category": "troubleshooting_teknis",
+    "prompt": "Bagaimana cara upload foto tapi selalu gagal?",
+    "response": "Pastikan ukuran foto di bawah 5MB dan format JPG/PNG. Jika masih gagal, coba kompres foto atau gunakan koneksi WiFi yang lebih stabil."
+  },
+  {
+    "id": 60,
+    "category": "troubleshooting_teknis",
+    "prompt": "Website tidak responsive di HP saya, kenapa?",
+    "response": "Coba akses lewat browser lain (Chrome/Safari terbaru) atau bersihkan cache browser. Kami juga menyediakan aplikasi mobile untuk pengalaman lebih optimal."
+  },
+  {
+    "id": 61,
+    "category": "troubleshooting_teknis",
+    "prompt": "Kenapa saya tidak bisa checkout, tombolnya tidak bisa diklik?",
+    "response": "Pastikan semua field wajib (alamat, metode pembayaran) sudah terisi. Jika tombol tetap tidak aktif, coba refresh halaman atau ganti browser/aplikasi."
+  },
+  {
+    "id": 62,
+    "category": "troubleshooting_teknis",
+    "prompt": "Bagaimana cara update aplikasi ke versi terbaru?",
+    "response": "Buka Google Play Store atau App Store, cari nama aplikasi kami, lalu klik tombol Update jika tersedia pembaruan."
+  },
+  {
+    "id": 63,
+    "category": "troubleshooting_teknis",
+    "prompt": "Kenapa fitur pencarian tidak menampilkan hasil yang relevan?",
+    "response": "Coba gunakan kata kunci yang lebih spesifik atau periksa filter kategori/harga yang mungkin membatasi hasil pencarian secara tidak sengaja."
+  },
+  {
+    "id": 64,
+    "category": "troubleshooting_teknis",
+    "prompt": "Aplikasi minta izin akses lokasi terus, apakah wajib?",
+    "response": "Akses lokasi membantu menampilkan estimasi ongkir dan waktu pengiriman yang akurat, tapi kamu tetap bisa memasukkan alamat secara manual tanpa akses lokasi."
+  },
+  {
+    "id": 65,
+    "category": "troubleshooting_teknis",
+    "prompt": "Bagaimana jika lupa alamat email untuk login?",
+    "response": "Coba login menggunakan nomor HP terdaftar sebagai alternatif, atau hubungi support dengan menyertakan bukti kepemilikan akun untuk pemulihan."
+  },
+  {
+    "id": 66,
+    "category": "informasi_produk",
+    "prompt": "Bagaimana cara mengetahui stok produk tersedia atau tidak?",
+    "response": "Ketersediaan stok ditampilkan langsung di halaman produk; jika stok habis, tombol 'Tambah ke Keranjang' akan berubah menjadi 'Stok Habis'."
+  },
+  {
+    "id": 67,
+    "category": "informasi_produk",
+    "prompt": "Apakah ada garansi untuk produk elektronik?",
+    "response": "Sebagian besar produk elektronik memiliki garansi resmi 1-2 tahun dari distributor, informasi detail tersedia di deskripsi masing-masing produk."
+  },
+  {
+    "id": 68,
+    "category": "informasi_produk",
+    "prompt": "Bagaimana cara membaca ukuran produk yang tepat?",
+    "response": "Setiap halaman produk fashion menyediakan tabel ukuran (size chart) yang bisa diakses lewat tautan 'Panduan Ukuran' di bawah pilihan varian."
+  },
+  {
+    "id": 69,
+    "category": "informasi_produk",
+    "prompt": "Apakah foto produk sama persis dengan barang asli?",
+    "response": "Kami berusaha menampilkan foto seakurat mungkin, namun warna bisa sedikit berbeda tergantung pengaturan layar perangkat kamu."
+  },
+  {
+    "id": 70,
+    "category": "informasi_produk",
+    "prompt": "Bagaimana cara memberikan ulasan produk?",
+    "response": "Setelah status pesanan 'Selesai', buka menu Pesanan Saya, pilih produk, lalu klik 'Beri Ulasan' untuk menulis rating dan komentar."
+  },
+  {
+    "id": 71,
+    "category": "informasi_produk",
+    "prompt": "Apakah produk yang dijual asli/original?",
+    "response": "Semua produk yang dijual melalui official store kami dijamin 100% asli, dengan sistem verifikasi ketat terhadap seluruh penjual mitra."
+  },
+  {
+    "id": 72,
+    "category": "informasi_produk",
+    "prompt": "Bagaimana cara mengetahui produk pengganti jika stok habis?",
+    "response": "Sistem kami menampilkan rekomendasi produk serupa otomatis di bagian bawah halaman produk yang stoknya habis."
+  },
+  {
+    "id": 73,
+    "category": "informasi_produk",
+    "prompt": "Apakah tersedia layanan konsultasi sebelum membeli?",
+    "response": "Ya, kamu bisa chat langsung dengan penjual lewat fitur 'Tanya Penjual' di halaman produk untuk pertanyaan spesifik sebelum membeli."
+  },
+  {
+    "id": 74,
+    "category": "kontak_eskalasi",
+    "prompt": "Bagaimana cara menghubungi customer service?",
+    "response": "Kamu bisa menghubungi kami lewat live chat di aplikasi (24 jam), email di support@contohtoko.com, atau telepon di 0800-1234-5678 (Senin-Sabtu, 08.00-20.00 WIB)."
+  },
+  {
+    "id": 75,
+    "category": "kontak_eskalasi",
+    "prompt": "Berapa lama waktu respons tim support?",
+    "response": "Live chat direspons rata-rata dalam 5 menit, sedangkan email dibalas maksimal dalam 1x24 jam kerja."
+  },
+  {
+    "id": 76,
+    "category": "kontak_eskalasi",
+    "prompt": "Bagaimana jika masalah saya belum terselesaikan oleh CS?",
+    "response": "Kamu bisa meminta eskalasi ke supervisor lewat live chat dengan menyebutkan nomor tiket sebelumnya, atau kirim email ke escalation@contohtoko.com."
+  },
+  {
+    "id": 77,
+    "category": "kontak_eskalasi",
+    "prompt": "Apakah ada nomor WhatsApp untuk customer service?",
+    "response": "Ya, kamu bisa chat via WhatsApp di 0812-3456-7890 untuk respons yang lebih cepat di jam operasional."
+  },
+  {
+    "id": 78,
+    "category": "kontak_eskalasi",
+    "prompt": "Bagaimana cara memberikan masukan atau saran?",
+    "response": "Kami sangat terbuka untuk masukan, bisa dikirim lewat form 'Kritik & Saran' di menu Bantuan atau email ke feedback@contohtoko.com."
+  },
+  {
+    "id": 79,
+    "category": "kontak_eskalasi",
+    "prompt": "Apakah customer service tersedia di hari libur nasional?",
+    "response": "Live chat tetap tersedia 24/7 termasuk hari libur, namun layanan telepon mengikuti jam operasional Senin-Sabtu."
+  },
+  {
+    "id": 80,
+    "category": "kontak_eskalasi",
+    "prompt": "Bagaimana cara melaporkan penjual yang mencurigakan?",
+    "response": "Gunakan tombol 'Laporkan' di halaman toko/produk terkait, atau hubungi support dengan detail bukti agar bisa segera ditindaklanjuti."
+  },
+  {
+    "id": 81,
+    "category": "kebijakan_umum",
+    "prompt": "Apa kebijakan privasi terkait data pengguna?",
+    "response": "Kami hanya mengumpulkan data yang diperlukan untuk transaksi dan tidak membagikannya ke pihak ketiga tanpa izin, sesuai kebijakan privasi lengkap di halaman Kebijakan Privasi."
+  },
+  {
+    "id": 82,
+    "category": "kebijakan_umum",
+    "prompt": "Apakah ada batas usia minimum untuk membuat akun?",
+    "response": "Pengguna harus berusia minimal 17 tahun atau menggunakan akun yang diawasi orang tua/wali untuk transaksi yang melibatkan pembayaran."
+  },
+  {
+    "id": 83,
+    "category": "kebijakan_umum",
+    "prompt": "Bagaimana kebijakan penggunaan kode promo?",
+    "response": "Setiap kode promo memiliki syarat dan ketentuan spesifik (minimum belanja, periode berlaku, kuota) yang tertera saat kamu mengklaim kode tersebut."
+  },
+  {
+    "id": 84,
+    "category": "kebijakan_umum",
+    "prompt": "Apakah akun bisa dibekukan karena pelanggaran kebijakan?",
+    "response": "Ya, akun yang terbukti melanggar Syarat & Ketentuan (seperti transaksi fiktif atau penyalahgunaan promo) dapat dibekukan sementara atau permanen setelah investigasi."
+  },
+  {
+    "id": 85,
+    "category": "kebijakan_umum",
+    "prompt": "Di mana saya bisa membaca Syarat dan Ketentuan lengkap?",
+    "response": "Syarat dan Ketentuan lengkap tersedia di footer halaman utama website, atau di menu Pengaturan > Legal & Kebijakan pada aplikasi."
+  }
+]
